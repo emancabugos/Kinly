@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textalbel_Date2</name>
+   <tag></tag>
+   <elementGuidId>990c7d1d-32cf-4df0-b890-5f80a3fae2b4</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>itmuplodpg-schperiod-edit-cell1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schedule&quot;)/div[@class=&quot;seller-common-box itmuplodpg-schedule-sec&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;itmuplodpg-schperiod-area&quot;]/div[@class=&quot;itmuplodpg-schperiod-lstsec&quot;]/div[@class=&quot;itmuplodpg-schperiod-entersec&quot;]/div[@class=&quot;itmuplodpg-schperiod-edit-row&quot;]/div[@class=&quot;itmuplodpg-schperiod-edit-cell1&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

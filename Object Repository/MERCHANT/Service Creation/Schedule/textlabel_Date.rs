@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textlabel_Date</name>
+   <tag></tag>
+   <elementGuidId>bc711b3e-39ca-4254-b840-745351c4075f</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schedule&quot;)/div[@class=&quot;seller-common-box itmuplodpg-schedule-sec&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;itmuplodpg-schperiod-area&quot;]/div[@class=&quot;itmuplodpg-schperiod-lstsec&quot;]/div[@class=&quot;itmuplodpg-schperiod-list&quot;]/table[1]/thead[1]/tr[1]/th[1]</value>
+   </webElementProperties>
+</WebElementEntity>

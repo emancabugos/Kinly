@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Profile Tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>151ce7f8-9c33-40e7-bd58-74baacc05eda</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\\\Katalon\\\\Image\\\\victor.jpg'</defaultValue>
+      <description></description>
+      <id>3e98bdf0-34df-4807-ad2e-e836f0723777</id>
+      <masked>false</masked>
+      <name>varImagePath</name>
+   </variable>
+</TestCaseEntity>
