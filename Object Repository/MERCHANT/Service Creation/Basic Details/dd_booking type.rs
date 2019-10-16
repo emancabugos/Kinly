@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>checkbox_cat9</name>
+   <name>dd_booking type</name>
    <tag></tag>
-   <elementGuidId>e1c274ea-25b6-4070-8ac7-e395cd3c7632</elementGuidId>
+   <elementGuidId>e07dba5e-77c7-409b-a0ba-26fb930dcef8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id=&quot;add-item-area&quot;]/div/div[1]/div/div/div/div/div/div/div[2]/div/div/div[2]/ul/li[9]/label</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -15,8 +15,15 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath</name>
+      <name>tag</name>
       <type>Main</type>
-      <value>//*[@id=&quot;add-item-area&quot;]/div/div[1]/div/div/div/div/div/div/div[2]/div/div/div[2]/ul/li[9]/label</value>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>booking-type</value>
    </webElementProperties>
 </WebElementEntity>

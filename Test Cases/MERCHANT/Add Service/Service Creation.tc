@@ -3,6 +3,125 @@
    <description></description>
    <name>Service Creation</name>
    <tag></tag>
-   <comment></comment>
+   <comment>Select Category
+Service Name &amp; Description
+Booking Unit
+Booking Type
+Service Duration
+Unlimited Bookings
+Schedule
+Image</comment>
    <testCaseGuid>7e7f20ca-1bba-45a5-91a2-c7077372e820</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>efeb12e8-90db-4ce7-94f0-e9301777c5c2</id>
+      <masked>false</masked>
+      <name>varServiceName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>658b6795-08a7-4bd0-a17a-8983e14145ad</id>
+      <masked>false</masked>
+      <name>varBookingUnit</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>94e34f1e-7b8e-4894-94ca-c0246f87cff4</id>
+      <masked>false</masked>
+      <name>varBookingType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>5e04b400-246b-4295-b464-41c76c650115</id>
+      <masked>false</masked>
+      <name>varServiceDuration</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>208f1378-6432-4cda-bc42-f86204948eab</id>
+      <masked>false</masked>
+      <name>varPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>9d70bca2-2dd8-40a6-8337-7e903cf40b48</id>
+      <masked>false</masked>
+      <name>varUnlimitedBookings</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>753cdd2b-d566-47a3-a6c4-2b7e7d43b50b</id>
+      <masked>false</masked>
+      <name>varBookingsPerSession</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>ceb2da1b-7f4d-4d15-ac7d-42f0b411c691</id>
+      <masked>false</masked>
+      <name>varServiceType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>ec027b83-9847-40fb-a572-fbe727415725</id>
+      <masked>false</masked>
+      <name>varOperation</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>33b016a7-a8a8-44eb-9574-e782c419eb53</id>
+      <masked>false</masked>
+      <name>varImage</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>4cb55dd9-e607-47f4-a4eb-58c115a4b706</id>
+      <masked>false</masked>
+      <name>varAddons</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>bc123be6-a016-4850-9fd8-0cb7b36e4c8e</id>
+      <masked>false</masked>
+      <name>varLocation</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>556dddc7-52e2-4a0b-889f-1fc0cfda0a4e</id>
+      <masked>false</masked>
+      <name>varCountry</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>efa667bb-b9a0-442e-a0a2-53362c0fce7b</id>
+      <masked>false</masked>
+      <name>varState</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>d650a1a1-120f-4d91-afbf-7b573aa6c4e1</id>
+      <masked>false</masked>
+      <name>varCity</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Merchant/Service List')</defaultValue>
+      <description></description>
+      <id>4c79f0e6-ada6-4d27-b245-da695cece9de</id>
+      <masked>false</masked>
+      <name>varPostalCode</name>
+   </variable>
 </TestCaseEntity>

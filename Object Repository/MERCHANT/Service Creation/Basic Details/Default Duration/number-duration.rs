@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>checkbox_cat3</name>
+   <name>number-duration</name>
    <tag></tag>
-   <elementGuidId>9064a710-10de-4829-a037-e7174f25005c</elementGuidId>
+   <elementGuidId>a43ba082-86c2-435c-a08a-035a8be16930</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id=&quot;add-item-area&quot;]/div/div[1]/div/div/div/div/div/div/div[2]/div/div/div[2]/ul/li[3]/label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +16,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id=&quot;add-item-area&quot;]/div/div[1]/div/div/div/div/div/div/div[2]/div/div/div[2]/ul/li[3]/label</value>
+      <value>//*[@id=&quot;itmupld_srvcs_specify1&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
