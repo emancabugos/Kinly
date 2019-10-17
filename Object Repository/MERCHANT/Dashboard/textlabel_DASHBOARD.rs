@@ -3,7 +3,7 @@
    <description></description>
    <name>textlabel_DASHBOARD</name>
    <tag></tag>
-   <elementGuidId>53a04d31-c412-4b23-9ac4-921863a762eb</elementGuidId>
+   <elementGuidId>ccd61486-dacc-4e83-a031-8f82d759398d</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -25,6 +25,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@class=&quot;page-seller page-dashboard seller-dashboard  pace-done&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;seller-titlearea&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/h1[1]/span[1]</value>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@class=&quot;page-seller page-dashboard seller-dashboard  pace-done&quot;]/href=&quot;[1]/div[@class=&quot;main&quot;]/div[@class=&quot;seller-titlearea&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/h1[1]/span[1]</value>
    </webElementProperties>
 </WebElementEntity>

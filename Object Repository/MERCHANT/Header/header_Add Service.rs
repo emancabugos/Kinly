@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Logout</name>
+   <name>header_Add Service</name>
    <tag></tag>
-   <elementGuidId>32974f27-4025-4aa4-8797-93ed61ee2bd5</elementGuidId>
+   <elementGuidId>6534a4d8-b043-4654-9104-a4221c8ae8f4</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,27 +18,20 @@
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>#</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>$(this).closest('form').submit()</value>
+      <value>/user/item/upload</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Logout</value>
+      <value>Add Service</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;videoBannerBG&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;pull-right&quot;]/div[@class=&quot;main-nav&quot;]/ul[@class=&quot;navigation&quot;]/li[@class=&quot;user-login dropdown hover&quot;]/ul[@class=&quot;login-nav dropdown-menu&quot;]/form[1]/li[1]/a[1]</value>
+      <value>id(&quot;videoBannerBG&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;pull-right&quot;]/div[@class=&quot;main-nav&quot;]/ul[@class=&quot;navigation&quot;]/li[@class=&quot;hidden-xs hover&quot;]/a[1]</value>
    </webElementProperties>
 </WebElementEntity>
