@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Image</name>
+   <tag></tag>
+   <elementGuidId>058d890d-8f7f-404d-9504-e8cb7eff6714</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>change-profile</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profile&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;seller-common-box&quot;]/form[1]/div[@class=&quot;item-form-group seller-setting-display&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;img-wrapper image-upload-container&quot;]/div[@class=&quot;change-profile&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
