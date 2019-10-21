@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>image_1301</name>
+   <tag></tag>
+   <elementGuidId>2984c1a6-a34e-4cd8-8c57-90a5ddfb6798</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images//cover-image-23876-9v6t7d8zmb.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel-4e897e59-5c31-e811-80d1-000d3aa28ae2&quot;)/div[@class=&quot;content&quot;]/div[@class=&quot;square-img&quot;]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>

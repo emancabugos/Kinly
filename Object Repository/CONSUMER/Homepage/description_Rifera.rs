@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>description_Rifera</name>
+   <tag></tag>
+   <elementGuidId>353edb45-1a3e-4f6c-bede-fb8c8606b5da</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-desc</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> &quot;I fell involve with the idea of Kinly instantly.  Not only is it is not only a platform for parents to easily search for the services they need, it also supports business owners like me promote their services so they can focus on what they do best - for me that is baking cakes!&quot;</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel-49897e59-5c31-e811-80d1-000d3aa28ae2&quot;)/div[@class=&quot;content&quot;]/div[@class=&quot;content-desc&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
