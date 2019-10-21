@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Add Category</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>04eab325-c1d2-4076-ab5d-933dbe841e16</testSuiteGuid>
+   <testCaseLink>
+      <guid>5079a0fc-dc1b-46cc-afac-0e6078765282</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ADMIN/Content Mgmt/Categories/Category Add-Edit/Add Category</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>67aa6d94-59ec-4d12-a223-7affcd36b37c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Admin/Category List</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>67aa6d94-59ec-4d12-a223-7affcd36b37c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Category</value>
+         <variableId>8381c079-1a03-45c6-8a38-c0114f64e1f3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>67aa6d94-59ec-4d12-a223-7affcd36b37c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Parent</value>
+         <variableId>7caf8cf9-4f0d-421b-8e5d-86b24bb406d1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>67aa6d94-59ec-4d12-a223-7affcd36b37c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Image</value>
+         <variableId>c85403b1-c16f-43ca-9536-3a57c98ff7bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>67aa6d94-59ec-4d12-a223-7affcd36b37c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Description</value>
+         <variableId>086cd6ef-7729-49cc-9769-352fe630d4f5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
