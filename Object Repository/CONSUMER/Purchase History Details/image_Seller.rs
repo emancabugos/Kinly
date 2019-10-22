@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Search</name>
+   <name>image_Seller</name>
    <tag></tag>
-   <elementGuidId>eb255c6c-48b0-4d19-8b0c-00fb4eb4c103</elementGuidId>
+   <elementGuidId>fc8f2a96-3bb0-449b-9766-61325789aa3c</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,34 +11,20 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
+      <value>img</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>src</name>
       <type>Main</type>
-      <value>button</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>go-search</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn-search</value>
+      <value>/images/user/profile-image-120187-r05ltmycmm.jpg</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;go-search&quot;)</value>
+      <value>id(&quot;MyPrintDiv&quot;)/div[@class=&quot;purhstdtls-content-sec&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;purhstdtls-col-sec&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;purhstdtls-seller-sec&quot;]/div[@class=&quot;purhstdtls-seller-uimgsec&quot;]/img[1]</value>
    </webElementProperties>
 </WebElementEntity>

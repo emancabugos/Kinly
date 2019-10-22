@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_LeaveFeedback</name>
+   <tag></tag>
+   <elementGuidId>c8951fb2-6ccc-4b23-a4fc-aff2524ae0b6</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-id</name>
+      <type>Main</type>
+      <value>244898</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cart-id</name>
+      <type>Main</type>
+      <value>48593</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leave-feedback-txt</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leave feedback</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;purchasehist_tab_ongoing&quot;)/div[@class=&quot;purchase-hist-tbl-row&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;purchase-hist-tbl-inner&quot;]/div[@class=&quot;purhist-status-col&quot;]/div[@class=&quot;feedback-button-container&quot;]/div[@class=&quot;purhist-status-btnsec leave-feedback-container&quot;]/a[@class=&quot;leave-feedback-txt&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

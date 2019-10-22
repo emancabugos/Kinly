@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textfield_search (1)</name>
+   <name>image_thankyou</name>
    <tag></tag>
-   <elementGuidId>d2e3810c-6a07-40e6-b91d-90389cc2b11d</elementGuidId>
+   <elementGuidId>e28a1a54-711a-4458-b9a2-6cd5a2f446d3</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,41 +11,34 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
+      <value>path</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control search-item</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Search by name and invoice ID</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>search-item</value>
+      <value>svg</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#00C7B1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M48,93c24.853,0,45-20.148,45-45C93,23.148,72.853,3,48,3S3,23.148,3,48C3,72.852,23.147,93,48,93</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react_0HLQLRRFANBCO&quot;)/div[1]/div[@class=&quot;purchase-hist-titlesec&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;purchasehist-titlearea&quot;]/div[@class=&quot;purchase-hist-filter&quot;]/div[1]/ul[1]/li[1]/div[@class=&quot;search-group&quot;]/input[@class=&quot;form-control search-item&quot;]</value>
+      <value>id(&quot;Layer_1&quot;)/g[1]/path[@class=&quot;svg&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

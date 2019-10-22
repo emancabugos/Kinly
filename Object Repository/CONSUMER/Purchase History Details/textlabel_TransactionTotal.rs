@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Search</name>
+   <name>textlabel_TransactionTotal</name>
    <tag></tag>
-   <elementGuidId>eb255c6c-48b0-4d19-8b0c-00fb4eb4c103</elementGuidId>
+   <elementGuidId>547fbe26-2562-47ee-a78f-f15ca3ddd5e5</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,34 +11,20 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
+      <value>label</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>text</name>
       <type>Main</type>
-      <value>button</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>go-search</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn-search</value>
+      <value>Transaction total</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;go-search&quot;)</value>
+      <value>id(&quot;MyPrintDiv&quot;)/div[@class=&quot;ordr-dtls-top-area&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row ordr-dtls-top-section&quot;]/div[@class=&quot;ordr-dtls-top-right  purchase-pg-hist-dtls-right&quot;]/div[@class=&quot;ordr-dtls-trans-info&quot;]/div[@class=&quot;ordr-dtls-buyer-infoind&quot;]/label[1]</value>
    </webElementProperties>
 </WebElementEntity>

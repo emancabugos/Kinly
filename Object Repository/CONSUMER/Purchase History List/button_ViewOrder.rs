@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Search</name>
+   <name>button_ViewOrder</name>
    <tag></tag>
-   <elementGuidId>eb255c6c-48b0-4d19-8b0c-00fb4eb4c103</elementGuidId>
+   <elementGuidId>18dff188-8ef1-425e-9100-84943044e9dd</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,34 +11,34 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
+      <value>a</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>href</name>
       <type>Main</type>
-      <value>button</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>go-search</value>
+      <value>#</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn-search</value>
+      <value>purhist-btn-vieworder</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View order</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;go-search&quot;)</value>
+      <value>id(&quot;purchasehist_tab_ongoing&quot;)/div[@class=&quot;purchase-hist-tbl-row&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;purchase-hist-tbl-inner&quot;]/div[@class=&quot;purhist-status-col&quot;]/div[@class=&quot;purhist-status-btnsec&quot;]/div[@class=&quot;purhist-status-btnsec&quot;]/a[@class=&quot;purhist-btn-vieworder&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
