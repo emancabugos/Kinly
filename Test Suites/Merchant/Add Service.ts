@@ -15,7 +15,7 @@
       <guid>57a8d869-9a4b-4b5d-907a-7869801412c4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MERCHANT/Add Service/Service Creation</testCaseId>
+      <testCaseId>Test Cases/MERCHANT/Add Service/Other Scenario/Service Creation</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>add1179f-3996-4141-b467-3d4fd6515d70</id>

@@ -4,6 +4,12 @@
    <name>textlabel_Item description</name>
    <tag></tag>
    <elementGuidId>70da1a21-6a03-4b12-bbc9-23569164331f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[(text() = 'Description*' or . = 'Description*')]</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,7 +24,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Item description*</value>
+      <value>Description*</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

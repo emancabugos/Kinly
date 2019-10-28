@@ -4,6 +4,12 @@
    <name>textlabel_Please state the location of</name>
    <tag></tag>
    <elementGuidId>ddb93973-3815-4582-a8e9-585a615c1cae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[(text() = 'Please specify the location of where your service will be held at. You can use the location from your address book, or enter a location of your own.' or . = 'Please specify the location of where your service will be held at. You can use the location from your address book, or enter a location of your own.')]</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,7 +24,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Please state the location of your service.</value>
+      <value>Please specify the location of where your service will be held at. You can use the location from your address book, or enter a location of your own.</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
